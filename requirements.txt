@@ -1,0 +1,5 @@
+pyspark
+apache-airflow
+kafka-python
+great_expectations
+boto3
